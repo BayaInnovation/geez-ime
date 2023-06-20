@@ -1,0 +1,12 @@
+:link  { color: rgb(225, 230, 00); text-decoration: none; font-weight: bold;} 
+:visited  { color: rgb(225, 200, 00); text-decoration: none; font-weight: bold;} 
+:active  { color: rgb(225, 200, 00); text-decoration: none; font-weight: bold;}       
+:hover   { color: rgb(150, 255, 100); text-decoration: none; font-weight: bold;}
+.grid  {border: 1 solid #000000;}
+.header  { color: white; text-align: center; font-family: verdana; font-style: italic; }
+.tig     { background: rgb(235,240,250); font-family: Nyala, Geez Able, Geez Jiret, Geez Hiwua; font-size: 15px; color: green; font-style: normal; text-align: center}
+.eng     {font-family: verdana; font-size: 13px; color: red; font-style: normal; text-align: center}
+.menu   { font-family: verdana;  font-size: 11px;}
+.topic   { font-family: verdana;  font-size: 12px; }
+.text   { font-family: verdana;  font-size: 11px;}
+.tag   { font-family: verdana;  font-size: 10px; color:#fafafa; font-weight: bold}
